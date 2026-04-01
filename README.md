@@ -18,10 +18,10 @@ Seu principal objetivo é facilitar a organização e automação dos processos 
 - [Configuração](#configuração)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
-- [Autores e Agradecimentos](#autores-e-agradecimentos)
-- [Histórico](#histórico)
-- [Suporte e Contato](#suporte-e-contato)
-- [Links Importantes](#links-importantes)
+
+
+
+
 
 ---
 
