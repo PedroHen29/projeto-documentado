@@ -75,3 +75,6 @@ git push origin feature/nova-funcionalidade
 
 # Licença
   Veja o arquivo LICENSE para mais detalhes.
+
+# Autores
+- Pedro Henrique Eich Amaral
